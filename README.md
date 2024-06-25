@@ -1,18 +1,19 @@
-# Welcome to My GitHub Page!
+# Welcome to My GitHub Page! ☕⚡
 
-Hello! I'm PikaBrew, a passionate AI student.
+## Hello! I'm PikaBrew, a passionate AI student. 🤖💡
 
-<!--
-**PikaBrew/PikaBrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 📚 Studying the fascinating field of Artificial Intelligence.
+- 💻 exploring new technologies.
+- 🌟 Always eager to learn.
 
-Here are some ideas to get you started:
+### My Interests
+- 🧠 Machine Learning & Deep Learning
+- 🤖 Robotics & Automation
+- 🌐 Natural Language Processing
+- 🎨 Graphic Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Fact
+- ☕ I love coffee almost as much as I love coding!
+
+
