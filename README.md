@@ -9,8 +9,6 @@
 
 ### My Interests
 - 🧠 Machine Learning & Deep Learning
-- 🤖 Robotics & Automation
-- 🌐 Natural Language Processing
 - 🎨 Graphic Design
 
 ### Fun Fact
